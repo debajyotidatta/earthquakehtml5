@@ -13,4 +13,4 @@ rlayer.js
 In order to run the code on your own machine simply host the application as a gae application and modify app.yaml file for a convenient application name.
 
 
-
+The folder a static example with heatmap contains another example in which concentrations of earthquake can be seen based on the region one is in. A dynamic example of the same is a good idea but the problem is the concentration and density of the points. The idea can be easily seen by uncommenting the section on heatmap in the main.js file.

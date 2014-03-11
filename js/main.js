@@ -86,7 +86,7 @@ function main() {
 	//debugger;
 	var map = initialize_map()
 
-	var urllist = ["js/query.json"]
+	var urllist = ["js/data2.json"]
 
 	var time = 1000, next = 2000;
 
